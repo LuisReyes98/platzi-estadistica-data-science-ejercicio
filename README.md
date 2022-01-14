@@ -10,3 +10,16 @@ Puedes utilizar Deepnote para trabajar interactivamente con los notebooks siguie
 
 * [Outlier detection for skewed data](https://wis.kuleuven.be/stat/robust/papers/2008/outlierdetectionskeweddata-revision.pdf)
 * [Probability and Statistics for Data Science](https://cims.nyu.edu/~cfgranda/pages/stuff/probability_stats_for_DS.pdf)
+
+
+## Repasar
+
+https://platzi.com/clases/2353-estadistica-descriptiva/38406-procesamiento-de-datos-numericos-en-python/
+
+https://platzi.com/clases/2353-estadistica-descriptiva/38405-transformacion-no-lineal/
+
+https://platzi.com/clases/2353-estadistica-descriptiva/38399-medidas-de-dispersion/
+
+https://platzi.com/clases/2353-estadistica-descriptiva/38393-flujo-de-trabajo-en-data-science/
+
+https://platzi.com/clases/2353-estadistica-descriptiva/38392-estadistica-descriptiva-vs-inferencial/
