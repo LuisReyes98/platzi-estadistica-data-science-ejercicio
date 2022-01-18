@@ -38,6 +38,14 @@ Reconocer patrones en los datos.
 
 Predecir desempeño de un jugador de futbol en el futuro.
 
+### Por qué aprender estadística?
+
+- resumir grandes cantidades de informacion
+- Tomar mejores decisiones (o peores)
+- Responder preguntas con relevancia social
+- Reconocer patrones en los datos
+- Descubrir a quienes usan estas herramientas con fines nefastos.
+
 ## Flujo de trabajo en data science
 
 ![flujo data science](./images/flujo_de_datascience.png)
@@ -52,11 +60,10 @@ En el flujo de un proyecto de machine learning, diversos roles se enfocan en dis
 
 ![bloques_de_procesamiento](./images/bloques_de_procesamiento.png)
 
-En los bloques del procesamiento la estadistica juega un rol importante en los primeros dos bloques
+En los bloques del procesamiento la estadistica descriptiva juega un rol importante en los primeros dos bloques
 
-1. Ingesta y Validacion de los datos crudos
-2. Preparacion de los datos y Entrenamiento del modelo
-
+1. Ingesta de datos y Validacion de los datos
+2. **Preparacion de los datos y Entrenamiento del modelo** (aqui se usa mas)
 
 # platzi-curso-estadistica-descriptiva-2021
 
