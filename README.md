@@ -15,15 +15,15 @@ Foco principal de este curso
 
 Se enfoca en resumir un historial de datos.
 
-Una de las desventajas que tiene es que **se puede mentir con estadistica**, esto se hace al destacar solo la informacion o metricas que nos convienen.
+Una de las desventajas que tiene es que **se puede mentir con estadística**, esto se hace al destacar solo la información o métricas que nos convienen.
 
-Las mediciones o metricas de los datos que nos dan informacion de ellos se conocen como **estadisticos descriptivos**. un ejemplo de esto es la cantidad de goles de un jugador en un campeonato.
+Las mediciones o métricas de los datos que nos dan información de ellos se conocen como **estadísticos descriptivos**. un ejemplo de esto es la cantidad de goles de un jugador en un campeonato.
 
-    "Con frecuencia construimos un caso estadístico con datos imperfectos, como resultado hay numerosas raazones por las cuales individuos intelectuales respetables pueden no estar de acuerdo sobre los resultados estadísticos."
+    "Con frecuencia construimos un caso estadístico con datos imperfectos, como resultado hay numerosas razones por las cuales individuos intelectuales respetables pueden no estar de acuerdo sobre los resultados estadísticos."
 
-  **-Naked Statistics (Charles Wheelan).**
+  **-Naked Statistics (Charles Wheelan). **
 
-**Ejemplo:**
+**Ejemplo: **
 
 Resumir historial deportivo de un jugador.
 
@@ -34,18 +34,17 @@ Resumir grandes cantidades de información para tomar mejores decisiones.
 Responder preguntas con relevancia social.
 Reconocer patrones en los datos.
 
-**Ejemplo:**
+**Ejemplo: **
 
 Predecir desempeño de un jugador de futbol en el futuro.
 
 ### Por qué aprender estadística?
 
-- resumir grandes cantidades de informacion
+- resumir grandes cantidades de información
 - Tomar mejores decisiones (o peores)
 - Responder preguntas con relevancia social
 - Reconocer patrones en los datos
 - Descubrir a quienes usan estas herramientas con fines nefastos.
-
 ## Flujo de trabajo en data science
 
 ![flujo data science](./images/flujo_de_datascience.png)
