@@ -17,6 +17,15 @@ Se enfoca en resumir un historial de datos.
 
 Una de las desventajas que tiene es que **se puede mentir con estadística**, esto se hace al destacar solo la información o métricas que nos convienen.
 
+#### ¿Puedes mentir con estadísticas?
+
+**Si** ejemplo
+certificar quien es el mejor jugador de futbol depende de que define al mejor jugador de futbol y podemos montar solo las metricas que cons convengan para respaldar nuestra teoría.
+
+- No hay una definicion objetiva de las cosas
+
+- Los diferentes estadisticos descriptivos dan nociones diferentes sobre los mismos datos.
+
 Las mediciones o métricas de los datos que nos dan información de ellos se conocen como **estadísticos descriptivos**. un ejemplo de esto es la cantidad de goles de un jugador en un campeonato.
 
     "Con frecuencia construimos un caso estadístico con datos imperfectos, como resultado hay numerosas razones por las cuales individuos intelectuales respetables pueden no estar de acuerdo sobre los resultados estadísticos."
