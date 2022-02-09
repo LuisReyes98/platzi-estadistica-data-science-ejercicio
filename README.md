@@ -21,9 +21,9 @@ Las mediciones o métricas de los datos que nos dan información de ellos se con
 
     "Con frecuencia construimos un caso estadístico con datos imperfectos, como resultado hay numerosas razones por las cuales individuos intelectuales respetables pueden no estar de acuerdo sobre los resultados estadísticos."
 
-  **-Naked Statistics (Charles Wheelan). **
+  **-Naked Statistics (Charles Wheelan).**
 
-**Ejemplo: **
+**Ejemplo:**
 
 Resumir historial deportivo de un jugador.
 
@@ -34,7 +34,7 @@ Resumir grandes cantidades de información para tomar mejores decisiones.
 Responder preguntas con relevancia social.
 Reconocer patrones en los datos.
 
-**Ejemplo: **
+**Ejemplo:**
 
 Predecir desempeño de un jugador de futbol en el futuro.
 
